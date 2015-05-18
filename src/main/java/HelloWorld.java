@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Hello 김예지");
         System.out.println("Hello 변은지");
+        System.out.println("Hello KTDS");
     }
 }
